@@ -1,7 +1,7 @@
 # Crazylibs
  Made with Python
 
-It is based on the board game Mablibs. 
+It is based on the board game _Madlibs_. 
 
 ## Features:
 * Many stories to chose from.
